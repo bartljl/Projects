@@ -1,4 +1,3 @@
-Projects
+Project
 ========
-
-The projects which I have ever finished.
+A leader election network protocol which I have designed.
